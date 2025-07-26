@@ -16,7 +16,7 @@ Resourceful and detail-oriented Full Stack Developer with hands-on experience in
 ### 🧠 Technical Skills
 
 - **Languages**: JavaScript, Python, Java, PHP, TypeScript, Shell
-- **Frontend**: React, Next.js, Vue.js, HTML5, CSS3, Bootstrap
+- **Frontend**: React, Next.js, Vue.js, HTML5, CSS3, Tailwind Bootstrap
 - **Backend**: Node.js, Express, FastAPI, MongoDB, MySQL
 - **DevOps & Cloud**: Docker, AWS, Azure, Google Cloud
 - **Tools**: Git, GitHub, VSCode, Postman, ServiceNow, Linux CLI
