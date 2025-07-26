@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-Resourceful and detail-oriented Full Stack Developer with hands-on experience in both front-end and back-end development. I specialize in modern frameworks like **React (Next.js)** and **FastAPI**, and have a strong foundation in **cloud technologies**, **DevOps**, and **containerization** using Docker. I'm a published researcher and certified in multiple full-stack and backend development programs from **IBM**, **Meta**, and **Microsoft**. Passionate about continuous learning and delivering impactful software solutions.
+Resourceful and detail-oriented Full Stack Developer with hands-on experience in both front-end and back-end development. I specialize in modern frameworks like **React (Next.js)**, **Express** and **FastAPI**, and have a strong foundation in **cloud technologies**, **DevOps**, and **containerization** using Docker. I'm a published researcher and certified in multiple full-stack and backend development programs from **IBM**, **Meta**, and **Microsoft**. Passionate about continuous learning and delivering impactful software solutions.
 
 ---
 
