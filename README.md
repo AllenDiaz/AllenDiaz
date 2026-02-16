@@ -119,7 +119,7 @@ A comprehensive medical records management system designed for rural health faci
 - 📚 Created comprehensive technical documentation for MongoDB and Azure workflows
 - 🛠️ Contributed to system reliability improvements and bug tracking
 
-**Freelance Full Stack Developer** | 2023 – Present
+**Freelance Full Stack Developer** | 2020 – 2024
 - 🌐 Develop custom web applications for diverse clients across multiple industries
 - 💼 Deliver end-to-end solutions from requirements gathering to deployment
 - 🎨 Create responsive, user-friendly interfaces with modern design principles
