@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Allen Diaz
 
-**Full Stack Engineer | Full Stack Developer | Web Developer | Software Engineer**  
+**Full Stack Engineer | Full Stack Develper | Software Engineer | Web Developer**  
 📍 Valenzuela City, Philippines  
 📧 allendiaz.developer@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/allen-diaz-525071258/) | [GitHub](https://github.com/AllenDiaz) | [Portfolio](https://allen-diaz-porfolio.vercel.app/)
@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-I'm a passionate Full Stack Developer who builds scalable web applications and creates engaging user experiences. With expertise in modern frameworks like **React**, **Next.js**, **Three.js**, and backend technologies like **FastAPI** and **Express**, I transform ideas into functional digital solutions.
+I'm a passionate Full Stack Developer who builds scalable web applications and creates engaging user experiences. With expertise in modern frameworks like **React**, **Next.js**, **Three.js**, and backend technologies like **FastAPI**, and **Express**, I transform ideas into functional digital solutions.
 
-Currently working as a Full Stack Engineer at **Safeway Albertsons Philtech**, I design system architectures, develop AI-integrated applications, and containerize solutions using Docker. I'm a published researcher with my work featured in **IEEE Xplore**, and I hold multiple certifications from **IBM**, **Meta**, and **Microsoft**.
+Currently working as a Full Stack Developer Apprentice at **Safeway Albertsons Philtech**, I design system architectures, develop AI-integrated applications, and containerize solutions using Docker. I'm a published researcher with my work featured in **IEEE Xplore**, and I hold multiple certifications from **IBM**, **Meta**, and **Microsoft**.
 
 I believe in the power of continuous learning and creating technology that makes a difference. When I'm not coding, I'm exploring new web technologies, contributing to open-source projects, or researching innovative solutions for real-world problems.
 
@@ -21,8 +21,8 @@ I believe in the power of continuous learning and creating technology that makes
 
 **Frontend Development**
 - **Frameworks**: React, Next.js, Vue.js
-- **Libraries**: Three.js, React Three Fiber, React Three Drei etc.
-- **Animation**: GSAP, Framer Motion
+- **Libraries**: Three.js, React Three Fiber, React Three Drei etc
+- **Animation**: GSAP, Framer Motion etc
 - **Styling**: Tailwind CSS, CSS3, HTML5, Bootstrap
 - **Build Tools**: Vite, Webpack
 
@@ -52,7 +52,7 @@ I believe in the power of continuous learning and creating technology that makes
 A modern portfolio website showcasing my work through interactive elements and animations.
 
 **Key Features**:
-- 🎮 Interactive navigation with smooth transitions
+- 🎮 Interactive 3D navigation with smooth transitions
 - 🚀 Animated visual elements using React Three Fiber
 - 💫 GSAP-powered scroll animations and text reveals
 - 📱 Fully responsive design across all devices
@@ -106,18 +106,25 @@ A comprehensive medical records management system designed for rural health faci
 ### 💼 Professional Experience
 
 **Safeway Albertsons Philtech**  
-*Full Stack Engineer* | June 2025 – Present
+*Full Stack Developer* | June 2025 – Present
 - 🏗️ Architect scalable system designs for AI-integrated applications
 - ⚛️ Develop modern frontends using React and Next.js with responsive design
 - 🐍 Build robust backend APIs with FastAPI and Python
 - 🐳 Implement containerization strategies using Docker for consistent deployment
 - 🤝 Collaborate with cross-functional teams on enterprise-level solutions
 
-*Software Engineer* | September 2024 – June 2025
+*Software Engineer Apprentice* | September 2024 – June 2025
 - 💰 Engineered full-stack Expense Tracker application with Node.js
 - 🔍 Diagnosed and resolved production POS system issues using Linux and ServiceNow
 - 📚 Created comprehensive technical documentation for MongoDB and Azure workflows
 - 🛠️ Contributed to system reliability improvements and bug tracking
+
+**Freelance Full Stack Developer** | 2023 – Present
+- 🌐 Develop custom web applications for diverse clients across multiple industries
+- 💼 Deliver end-to-end solutions from requirements gathering to deployment
+- 🎨 Create responsive, user-friendly interfaces with modern design principles
+- 🔧 Provide ongoing maintenance and feature enhancements for client projects
+- 📊 Implement analytics and performance monitoring solutions
 
 **International Philippine Technologies**  
 *Web Developer Intern* | July 2023 – November 2023
@@ -165,6 +172,7 @@ Major in Systems Development | **University Scholar**
 - 🤖 **AI Integration**: Developing intelligent features into full-stack applications
 - 🌐 **Open Source**: Contributing to web development communities
 - 📈 **Performance Optimization**: Implementing best practices for fast, efficient applications
+- 💼 **Freelance Projects**: Delivering custom solutions for clients worldwide
 
 ---
 
@@ -175,9 +183,19 @@ I'm always excited to collaborate on innovative projects, whether it's building 
 **Open to**:
 - 💼 Full-time Full Stack Developer roles
 - 🌐 Web Development projects
-- 🤝 Freelance collaborations
+- 🤝 Freelance collaborations and contract work
 - 📚 Open source contributions
 - 🎤 Speaking opportunities at tech events
+- 🚀 Startup partnerships and consulting
+
+**Services I Offer**:
+- 🔧 Custom Web Application Development
+- ⚛️ React/Next.js Frontend Development
+- 🐍 Backend API Development (Node.js, FastAPI)
+- 🎨 UI/UX Implementation
+- 🐳 DevOps & Deployment Solutions
+- 📊 Database Design & Optimization
+- 🔍 Code Reviews & Technical Consulting
 
 **Let's Connect**:
 - 📧 Email: allendiaz.developer@gmail.com
