@@ -11,7 +11,7 @@
 
 I'm a passionate Full Stack Developer who builds scalable web applications and creates engaging user experiences. With expertise in modern frameworks like **React**, **Next.js**, **Three.js**, and backend technologies like **FastAPI**, and **Express**, I transform ideas into functional digital solutions.
 
-Currently working as a Full Stack Developer Apprentice at **Safeway Albertsons Philtech**, I design system architectures, develop AI-integrated applications, and containerize solutions using Docker. I'm a published researcher with my work featured in **IEEE Xplore**, and I hold multiple certifications from **IBM**, **Meta**, and **Microsoft**.
+Currently working as a Full Stack Developer at **Safeway Albertsons Philtech**, I design system architectures, develop AI-integrated applications, and containerize solutions using Docker. I'm a published researcher with my work featured in **IEEE Xplore**, and I hold multiple certifications from **IBM**, **Meta**, and **Microsoft**.
 
 I believe in the power of continuous learning and creating technology that makes a difference. When I'm not coding, I'm exploring new web technologies, contributing to open-source projects, or researching innovative solutions for real-world problems.
 
