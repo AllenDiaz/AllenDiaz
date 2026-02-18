@@ -3,7 +3,7 @@
 **Full Stack Engineer | Full Stack Develper | Software Engineer | Web Developer**  
 📍 Valenzuela City, Philippines  
 📧 allendiaz.developer@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/allen-diaz-525071258/) | [GitHub](https://github.com/AllenDiaz) | [Portfolio](https://allen-diaz-porfolio.vercel.app/)
+🔗 [LinkedIn](https://www.linkedin.com/in/allen-diaz-525071258/) | [GitHub](https://github.com/AllenDiaz) | [Portfolio](https://allen-diaz-dev.vercel.app/)
 
 ---
 
@@ -201,7 +201,7 @@ I'm always excited to collaborate on innovative projects, whether it's building 
 - 📧 Email: allendiaz.developer@gmail.com
 - 💼 LinkedIn: [Allen Diaz](https://www.linkedin.com/in/allen-diaz-525071258/)
 - 🐙 GitHub: [@AllenDiaz](https://github.com/AllenDiaz)
-- 🌐 Portfolio: [allen-diaz-porfolio.vercel.app](https://allen-diaz-porfolio.vercel.app/)
+- 🌐 Portfolio: [allen-diaz-dev.vercel.app](https://allen-diaz-dev.vercel.app/)
 
 ---
 
