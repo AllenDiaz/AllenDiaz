@@ -47,7 +47,7 @@ I believe in the power of continuous learning and creating technology that makes
 
 #### 🌟 [Interactive Portfolio Website](https://github.com/AllenDiaz/Porfolio)
 **Tech Stack**: React, Three.js, React Three Fiber, Vite, Tailwind CSS  
-**Live Demo**: [allen-diaz-porfolio.vercel.app](https://allen-diaz-porfolio.vercel.app/)
+**Live Demo**: [allen-diaz-porfolio.vercel.app](https://allen-diaz-dev.vercel.app/)
 
 A modern portfolio website showcasing my work through interactive elements and animations.
 
